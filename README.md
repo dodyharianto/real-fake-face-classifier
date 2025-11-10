@@ -1,7 +1,7 @@
 # Overview
 
 Image generators show excellent results in producing highly realistic images, widely known as deepfakes, and have raised concern in trustworthiness such as fake news and reputation damage. 
-Analyze the performance of ViT-based models (Vision Transformer, Cross-Covariance Image Transformer, and Data-Efficient Image Transformer) in classifying real and fake human faces, and evaluate the models based on metrics: accuracy, precision, recall, and F1 score.
+This project analyzes the performance of ViT-based models (Vision Transformer, Cross-Covariance Image Transformer, and Data-Efficient Image Transformer) in classifying real and fake human faces, and evaluate the models based on metrics: accuracy, precision, recall, and F1 score.
 
 # Dataset
 
